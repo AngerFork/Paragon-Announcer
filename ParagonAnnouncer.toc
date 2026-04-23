@@ -1,0 +1,18 @@
+## Interface: 120005
+## Title: Paragon Announcer
+## Author: AngerFork
+## Notes: Gives you a small warning when you receive a new paragon bag quest.
+## Version: 1.2
+## SavedVariables: ParagonSettings, QuestTableLegion, QuestTableBFA, QuestTableShadowlands, QuestTableDragonflight, QuestTableWarWithin, QuestTableMidnight
+
+localization/localization.lua
+localization/localization-cn.lua
+localization/localization-de.lua
+localization/localization-en.lua
+localization/localization-es.lua
+localization/localization-fr.lua
+localization/localization-it.lua
+localization/localization-kr.lua
+localization/localization-pt.lua
+localization/localization-ru.lua
+paragonfunctions.lua
