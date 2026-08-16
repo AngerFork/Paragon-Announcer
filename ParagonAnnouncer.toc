@@ -1,4 +1,4 @@
-## Interface: 120005
+## Interface: 120100
 ## Title: Paragon Announcer
 ## Author: AngerFork
 ## Notes: Gives you a small warning when you receive a new paragon bag quest.

@@ -29,6 +29,7 @@ L_MN_SMCOURT = "Silvermoon Court"
 L_MN_AMANI = "Amani Tribe"
 L_MN_HARATI = "Hara`ti"
 L_MN_SHADES = "Shades of the Row"
+L_MN_ZULJARRA = "Zul`jarra`s Forces"
 
 -- War Within Paragon Bags
 L_WW_ASSEMBLY = "Assembly of the Deeps"

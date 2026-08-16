@@ -96,7 +96,8 @@ AnnounceAdd.panel:SetScript("OnEvent", function(self, event, ...)
 		AnnounceAdd:RegisterQuest(L_EXPANSION11, "93811", true, L_MN_SMCOURT) -- Overflowing Silvermoon Trove
 		AnnounceAdd:RegisterQuest(L_EXPANSION11, "93566", true, L_MN_AMANI) -- Overflowing Amani Trove
 		AnnounceAdd:RegisterQuest(L_EXPANSION11, "89035", true, L_MN_HARATI) -- Overflowing Hara`ti Trove
-		AnnounceAdd:RegisterQuest(L_EXPANSION11, "94213", true, L_MN_SHADES) -- Overflowing Silvermoon Trove
+		AnnounceAdd:RegisterQuest(L_EXPANSION11, "92413", true, L_MN_SHADES) -- Overflowing Silvermoon Trove
+		AnnounceAdd:RegisterQuest(L_EXPANSION11, "93798", true, L_MN_ZULJARRA) -- Overflowing Hash'ura Trove
 
 		AnnounceAdd.panel:UnregisterEvent("ADDON_LOADED")
     end
