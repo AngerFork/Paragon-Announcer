@@ -28,6 +28,7 @@ if GetLocale() == "esES" or GetLocale() == "esMX" then
 	L_MN_HARATI = "Hara`ti"
 	L_MN_SHADES = "Shades of the Row"
 	L_MN_ZULJARRA = "Zul`jarra`s Forces"
+	L_MN_SLAYERS = "Duellum del Asesino"
 
 	-- War Within Paragon Bags
 	L_WW_ASSEMBLY = "Assembly of the Deeps"

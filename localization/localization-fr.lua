@@ -27,7 +27,8 @@ if GetLocale() == "frFR" then
 	L_MN_AMANI = "Tribu des Amani"
 	L_MN_HARATI = "Hara'ti"
 	L_MN_SHADES = "Ombres de la Ruelle"
-	L_MN_ZULJARRA = "Zul`jarra`s Forces"
+	L_MN_ZULJARRA = "Forces de Zul`jarra"
+	L_MN_SLAYERS = "Duellum meurtrier"
 
 	-- War Within Paragon Bags
 	L_WW_ASSEMBLY = "Assemblée des profondeurs"

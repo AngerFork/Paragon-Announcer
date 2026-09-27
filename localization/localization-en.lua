@@ -28,6 +28,7 @@ if GetLocale() == "enGB" or GetLocale() == "enUS" then
 	-- L_MN_HARATI = "Hara`ti"
 	-- L_MN_SHADES = "Shades of the Row"
 	-- L_MN_ZULJARRA = "Zul`jarra`s Forces"
+	-- L_MN_SLAYERS = "Slayer`s Duellum"
 
 	-- War Within Paragon Bags
 	-- L_WW_ASSEMBLY = "Assembly of the Deeps"
